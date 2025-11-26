@@ -1,7 +1,7 @@
 # Programação para dispositivos móveis
 Alunos:
 - Rodrigo Fortes Lopes (72450238)
-- Launelle Cardozo Martins (72450328)
+- Launelle Cardozo Martins (72450411)
 
 link para GitHub: https://github.com/rodrigo-fortes/saude-em-dia
 
@@ -67,7 +67,7 @@ Criar um aplicativo móvel nativo que permita ao usuário monitorar consultas e 
 ### ✔ 6.2. Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/saude-em-dia.git
+   git clone https://github.com/rodrigo-fortes/saude-em-dia.git
 2. Abra o projeto no Android Studio.
 3. Aguarde o carregamento do Gradle.
 4. Conecte um dispositivo Android ou inicie um Emulador.
